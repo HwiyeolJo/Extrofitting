@@ -13,4 +13,4 @@
 * pretrained simple GloVe is borrowed from counter-fitting (https://github.com/nmrksic/counter-fitting)
 * MEN-3k dataset is from (https://staff.fnwi.uva.nl/e.bruni/MEN)
 
-## Paper will appear soon
+## Paper will be appeared soon
