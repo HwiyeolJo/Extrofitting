@@ -1,6 +1,7 @@
 # Extrofitting: Enriching Word Representation and its Vector Space with Semantic Lexicons
-Post-processing method for enriching word representation and its vector space.
+Post-processing method for enriching word representation and its vector space.\\
 Extrofitting outperforms Faruqui's retrofitting with generalization.
+Paper Links: https://arxiv.org/abs/1804.07946
 
 ## Requirements
 * Jupyter notebook with Python 2.7
