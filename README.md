@@ -3,7 +3,7 @@ Post-processing method for enriching word representation and its vector space.<p
 Extrofitting outperforms Faruqui's retrofitting with generalization.<p>
 Paper Links: https://arxiv.org/abs/1804.07946 <p>
 
-Extrofitted GloVe (glove.42B.300d) can be downloaded at this url
+Extrofitted GloVe (glove.42B.300d) can be downloaded at this url <p>
 : https://drive.google.com/open?id=1R82TOyAmOgaAjCVrvUfBlJPJaTD5x28a
 
 ## Requirements
